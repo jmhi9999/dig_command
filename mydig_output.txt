@@ -1,0 +1,9 @@
+;; QUESTION SECTION:
+www.cnn.com. IN A
+
+;; ANSWER SECTION:
+www.cnn.com.	30 IN A 199.232.39.5
+
+;; Query time: 170 ms 
+;; SERVER: 
+;; WHEN: Tue February 21 17:54:17 2023
