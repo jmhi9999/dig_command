@@ -12,6 +12,7 @@ external library used in this method is dnspython - specifically
 dns.name and dns.query. I have also imported sys, time, and
 datetime to write other details such as query time and date time
 onto the output text file.
+
 HOW TO USE
 Once you run the program on either terminal or the IDE you are
 using, it will print a line saying “Enter a domain: “. You can
