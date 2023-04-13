@@ -2,6 +2,7 @@
 custom-made dig command based on Python that allows you to get A and NS types of DNS name servers of the input domain.
 
 READ ME
+
 “mydig.py” is implemented as a “dig”-like tool. Once you run the
 program, it lets the user enter a domain as an input, and it
 resolves the domain name to ip addresses. This is done by
@@ -14,6 +15,7 @@ datetime to write other details such as query time and date time
 onto the output text file.
 
 HOW TO USE
+
 Once you run the program on either terminal or the IDE you are
 using, it will print a line saying “Enter a domain: “. You can
 then enter any domain you want and if the user domain input is
